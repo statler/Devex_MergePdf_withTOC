@@ -1,0 +1,58 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+.vs/
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+ipch/
+[Oo]bj
+[Bb]in
+[Dd]ebug
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_ReSharper*/
+*.resharper
+
+#Project files
+[Bb]uild/
+CoreReportCopy/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+_compareTemp
+_notes
+
+CivilPro.pdf
+*.zip
+*.rar
+
+sqlite3/
+sqlite3
+# Can ignore all packages if you have the option 'Solution > Restore NuGet Packages' (turn on 'Solution > Enable NuGet Package Restore') 
+/packages/
